@@ -32,5 +32,4 @@
 |백엔드|백엔드|백엔드|백엔드|
 
  <br><br>
-  
-<img src="https://user-images.githubusercontent.com/90851865/163094866-57cee840-9dec-497f-86f2-b283f8b1aca0.png" height="100">
+
